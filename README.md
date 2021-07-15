@@ -8,6 +8,8 @@ Author: Laura Siviero; laura.seav@gmail.com
 
 Date 2021.05.05
 
+*************************************************************************
+
 Description:
 
 The tool allows you to generate a randomic Skyline (python 2.7);
@@ -15,6 +17,7 @@ Tool for Maya;
 License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
 *****************************************************************************
+
 Instructions:
 
 Put the cubic_skyline folder in the folder: C:\Users\YOU\Documents\maya\20XX\scripts
