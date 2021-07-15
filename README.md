@@ -11,8 +11,8 @@ Date 2021.05.05
 *************************************************************************
 
 Description:
--The tool allows you to generate a randomic Skyline (python 2.7);
--Tool for Maya;
+- The tool allows you to generate a randomic Skyline (python 2.7);
+- Tool for Maya;
 
 License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
@@ -20,10 +20,10 @@ License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
 Instructions:
 
--Put the cubic_skyline folder in the folder: C:\Users\YOU\Documents\maya\20XX\scripts
--Extract everything in the same location;
--Launch maya;
--Copy the following line in the script editor, make sure to change the path in the next lines too:
+- Put the cubic_skyline folder in the folder: C:\Users\YOU\Documents\maya\20XX\scripts
+- Extract everything in the same location;
+- Launch maya;
+- Copy the following line in the script editor, make sure to change the path in the next lines too:
 
 import sys
 
