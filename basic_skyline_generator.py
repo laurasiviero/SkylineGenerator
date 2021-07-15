@@ -1,3 +1,19 @@
+'''
+#*************************************************************************
+                            Skyline Genarator:
+#*************************************************************************
+Description: - generate Randomic Skilines;
+             - Advanced Distrubution Options
+#*************************************************************************
+ Author: Laura Siviero
+         laura.seav@gmail.com
+ 
+ License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
+ 
+ Date 2021.07.16
+#*************************************************************************
+'''
+
 import maya.cmds as cmds
 import random
 
