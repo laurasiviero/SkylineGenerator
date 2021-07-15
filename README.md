@@ -6,7 +6,7 @@ Date 2021.05.05
 
 Description:
 
-The tool allows you to play tic tac toe on maya (python 2.7);
+The tool allows you to generate a randomic Skyline (python 2.7);
 Tool for Maya;
 License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
