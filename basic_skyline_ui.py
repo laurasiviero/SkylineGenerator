@@ -1,23 +1,17 @@
 '''
-#########################################################################
-
-                            TicTacToe:
-
-#########################################################################
-
-Description: - This tool allows you to play tic-tac-toe on maya(python 2.7);
-             - TicTacToe ui functions.
-
-#########################################################################
-
+#*************************************************************************
+                            Skyline Genarator:
+#*************************************************************************
+Description: - generate Randomic Skilines;
+             - Advanced Distrubution Options
+#*************************************************************************
  Author: Laura Siviero
          laura.seav@gmail.com
  
- License: MIT https://github.com/laurasiviero/TicTacToe/blob/main/LICENSE
+ License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
  
  Date 2021.07.16
-
-#########################################################################
+#*************************************************************************
 '''
 
 import sys
