@@ -1,6 +1,9 @@
 *************************************************************************
+
 Skyline Generator:
+
 *************************************************************************
+
 Author: Laura Siviero; laura.seav@gmail.com
 
 Date 2021.05.05
@@ -11,7 +14,6 @@ The tool allows you to generate a randomic Skyline (python 2.7);
 Tool for Maya;
 License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
-Author: Laura Siviero laura.seav@gmail.com
 *****************************************************************************
 Instructions:
 
