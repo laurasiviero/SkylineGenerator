@@ -14,6 +14,8 @@ Description:
 - The tool allows you to generate a randomic Skyline (python 2.7);
 - Tool for Maya;
 
+Video: https://vimeo.com/575581074
+
 License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
 *****************************************************************************
