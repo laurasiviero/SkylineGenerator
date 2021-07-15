@@ -1,5 +1,6 @@
+*************************************************************************
 Skyline Generator:
-
+*************************************************************************
 Author: Laura Siviero; laura.seav@gmail.com
 
 Date 2021.05.05
@@ -11,7 +12,7 @@ Tool for Maya;
 License: MIT https://github.com/laurasiviero/SkylineGenerator/blob/main/LICENSE
 
 Author: Laura Siviero laura.seav@gmail.com
-
+*****************************************************************************
 Instructions:
 
 Put the cubic_skyline folder in the folder: C:\Users\YOU\Documents\maya\20XX\scripts
