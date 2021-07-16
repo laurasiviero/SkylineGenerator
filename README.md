@@ -13,6 +13,7 @@ Date 2021.05.05
 Description:
 - The tool allows you to generate a randomic Skyline (python 2.7);
 - Tool for Maya;
+- Generate Camera and light template for your scene
 
 Video: https://vimeo.com/575581074
 
